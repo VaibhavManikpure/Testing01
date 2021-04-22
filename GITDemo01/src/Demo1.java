@@ -2,8 +2,8 @@
 public class Demo1 {
 	public static void main(String[] args) {
 		Demo1 d=new Demo1();
-		d=m01;
-		d=m02;
+		d=m01();
+		d=m02();
 		System.out.println("hello demo");
 	}
 public void m01() {
